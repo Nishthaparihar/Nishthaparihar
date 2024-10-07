@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png)]
+[![MasterHead](https://res.cloudinary.com/proxify-io/image/upload/f_auto,dpr_auto,c_fill,q_auto:best,w_1728,h_720/v1/cms/images/articles/IU9eF4pezrNs9QyRGdNckyvoC5GgLF6MpKmlzbwE.png)]
 <h1 align="center">Hi 👋, I'm Nishtha Parihar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif">
